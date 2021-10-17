@@ -1,1 +1,1 @@
-# AI-and-Autonomous-Systems
+# Aritifical Intelligence and Autonomous Systems
